@@ -1,10 +1,4 @@
 //*******************************************************************************
-// Course Number and Section:CSCI-1380-04
-// Course Semester:Fall 2022
-// Your Name: Luis Treviño
-// --Only if they helped you with the assignment--
-// Teammate Name:
-// ---------------------------------------------
 // Program Description:
 // promtp the user for the name, and a length in feets.
 // display the name and converst the feets into yards.
@@ -48,7 +42,7 @@ int main() {
 	//	08) Below this comment, calculate the length in yards using the formula
 	//		provided in the handout with same format and assign the result
 	//to 		the corresponding variable. 			Formula: yards = (1/3) * feet 			Note:	DO NOT
-	//move the variable(s) and/or literal(s) around.
+	//Note:	DO NOT move the variable(s) and/or literal(s) around.
 	length_yard = length_feet / 3;
 
 	//	09) Below this comment, display on the screen the message:
