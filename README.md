@@ -1,4 +1,4 @@
-Download [Releases](https://github.com/luist01/Lab01/releases)
+Download - [Releases](https://github.com/luist01/Lab01/releases)
 
 Program Description: 
 promtp the user for the name, and a length in feets.
