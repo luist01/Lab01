@@ -41,8 +41,9 @@ int main() {
 
 	//	08) Below this comment, calculate the length in yards using the formula
 	//		provided in the handout with same format and assign the result
-	//to 		the corresponding variable. 			Formula: yards = (1/3) * feet 
-	//Note:	DO NOT move the variable(s) and/or literal(s) around.
+	//		to the corresponding variable. 		
+	//   Formula: yards = (1/3) * feet 
+	//		Note:	DO NOT move the variable(s) and/or literal(s) around.
 	length_yard = length_feet / 3;
 
 	//	09) Below this comment, display on the screen the message:
